@@ -24,3 +24,6 @@ armor since there is a gap in the Minecraft tech tree between iron and diamond.
  of trading.
  - Ricardo Jose Diaz
  -----------------------------------------------
+I contributed Java code to the project.
+- Josue Dejesus Perez Tutier
+ -----------------------------------------------
