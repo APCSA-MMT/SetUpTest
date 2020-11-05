@@ -6,3 +6,7 @@ I always found it kind of disappointing how aside from trading they really could
 other than trading. I intend to make emerald armor like the middle ground between iron armor and diamond
 armor since there is a gap in the Minecraft tech tree between iron and diamond.
  - Eros Lorenzo (I suggested this idea, Original Author)
+ -----------------------------------------------
+ This is a mod in Minecraft that allows players to use the emeralds that are collected in the game outside
+ of trading.
+ - Ricardo Jose Diaz
