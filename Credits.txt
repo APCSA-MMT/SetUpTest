@@ -1,0 +1,26 @@
+Credits and Notes from the development team
+-----------------------------------------------
+ I act as project manager and part of the Development team, essentially, Scrum Master and Developer, where I was the one
+ that came up with the idea to make a minecraft mod in the first place to accelerate the learning we all had in class.
+ This choice was made as almost everyone on the development team was already interested in the game, as well as the fact
+ that it was programmed in Java, with many resources available online for those of us who wanted to teach ourselves.
+ However, I did not come up with the idea to create Emerald Armour, neither was Eros, as mods like this one have existed
+ for a very large portion of this video games history. However, the original plan was to have everyone in the team vote
+ on which mod they all most wanted to work on. This was ultimately scrapped, as we instead decided to do mods which
+ would be small enough that we could get them done quickly with the right skills, but ones that we knew we did not have
+ the skills to make in the first place. This was done with the intention of pushing up as much as possible while also
+ retaining realistic deadlines. The person who originally suggested the idea of us doing the Emerald Armour mod is Eros
+ Lorenzo, see his credits and notes below.
+- Marlon Pascual Marrero Arancibia
+-----------------------------------------------
+A mod in Minecraft that brings in actual use to the emeralds that are in the game aside from trading.
+This was a mod made by myself, and some friends and I really just wanted to make emeralds more useful.
+I always found it kind of disappointing how aside from trading they really could not be used for anything
+other than trading. I intend to make emerald armor like the middle ground between iron armor and diamond
+armor since there is a gap in the Minecraft tech tree between iron and diamond.
+ - Eros Lorenzo (I suggested this idea, Original Author)
+ -----------------------------------------------
+ This is a mod in Minecraft that allows players to use the emeralds that are collected in the game outside
+ of trading.
+ - Ricardo Jose Diaz
+ -----------------------------------------------
