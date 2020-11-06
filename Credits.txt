@@ -24,6 +24,7 @@ armor since there is a gap in the Minecraft tech tree between iron and diamond.
  of trading. The mod was made by myself and a few friends of mine because we wanted to make emeralds a more
  useful item for players of the game. The main reason why I worked on this project is to gain experience with
  programming within a video game, as I would like to pursue a career as a video game programmer in the future.
+ I contributed Java code to the project
  - Ricardo Jose Diaz
  -----------------------------------------------
 I contributed Java code to the project.
