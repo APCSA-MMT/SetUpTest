@@ -10,7 +10,7 @@ modId="emerald" #mandatory
 
 version="${file.jarVersion}" #mandatory
 
-displayName="Fat Fucking Chode" #mandatory
+displayName="Emerald Armour" #mandatory
 
 updateJSONURL="http://myurl.me/" #optional
 
